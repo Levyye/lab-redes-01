@@ -79,21 +79,9 @@ rede: 192.168.0.0/24
 
 ---
 
-## 5. implementação do laboratório real 
 
-após a instalação , a rede foi montada fisicamente no laboratório.
 
-etapas realizadas:
-
-(fotos e capturas de tela realizadas durante o laboratório)
-
-Testes:
-
-(fotos e capturas de tela realizadas durante o laboratório)
-
----
-
-## 6. Conclusão
+## 5. Conclusão
 
 Este laboratório permitiu compreender o funcionamento de umna rede local simples, incluindo:
 
